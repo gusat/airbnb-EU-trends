@@ -10,7 +10,7 @@ Associated blog => https://medium.com/@mgusat/is-airbnb-really-pushing-us-out-3e
 ## File Descriptions
 - `airbnb-EU-trends-v0.92.ipynb`: Jupyter Notebook containing the analysis code.
 - `data/`: Directory containing Airbnb rental data for European cities in CSV format.
-- `Airbnb_EU_Blog.PDF`: Full (detailed) blog related to the associated Medium blog post.
+- `Airbnb EU Blog.PDF`: Full (detailed) blog related to the associated Medium blog post.
 
 ## How to Interact with the Project
 1. Clone or download the project repository.
