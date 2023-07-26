@@ -3,6 +3,8 @@
 # Airbnb Analysis on EU Cities
 
 This Jupyter Notebook analyzes Airbnb rental data for various European cities. The notebook explores the relationship between Airbnb prices, guest satisfaction, and other factors using linear regression and basic statistical techniques using pandas and numpy.
+The associated blog on Google is https://docs.google.com/document/d/1sBlxD3RTGJe7bxPOXg-Gars73CPX-FNT/edit?usp=sharing&ouid=104277560912018148042&rtpof=true&sd=true
+Its HLTM rendition https://docs.google.com/document/d/e/2PACX-1vT1xctLUROdXbyuQXO6-UNZUklC7PUVPpH3yVdxKRUwJDNa4kZNU2gYerGFtVxm5w/pub
 
 
 ## Data Ingestion
