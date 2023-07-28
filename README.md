@@ -8,7 +8,7 @@ To run the Jupyter Notebook and interact with this project, you need to have Pyt
 Associated blog => https://medium.com/@mgusat/is-airbnb-really-pushing-us-out-3e18f59dc778
 
 ## File Descriptions
-- `airbnb-EU-trends-v0.92.ipynb`: Jupyter Notebook containing the analysis code.
+- `airbnb-EU-trends-v1x.ipynb`: Jupyter Notebook containing the analysis code.
 - `data/`: Directory containing Airbnb rental data for European cities in CSV format.
 - `Airbnb EU Blog.PDF`: Full (detailed) blog related to the associated Medium blog post.
 
@@ -20,7 +20,8 @@ Associated blog => https://medium.com/@mgusat/is-airbnb-really-pushing-us-out-3e
 5. The Notebook contains detailed explanations and comments; for details see the PDF blog.
 
 ## Licensing, Authors, and Acknowledgements
-Mitch Gusat for Udacity P1 in T3; Under MIT License & Apache License 2.0
+Mitch Gusat for Udacity P1 in T3; 
+Under MIT License & Apache License 2.0
 
 
 ## Data Ingestion
